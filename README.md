@@ -1,6 +1,5 @@
 # Ike's Portfolio
 
+<img src= "IMG_2742.jpeg" width='400'/>
 
-<img src= "https://images.zola.com/070d8c12-1d84-40ef-9b9f-4e96ce7b801d?w=1000" width='400'/>
-
-
+## About the Project
